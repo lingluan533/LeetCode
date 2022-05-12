@@ -11,6 +11,7 @@ public class NC108 {
     public int solve (char[][] matrix) {
         // write code here
         //的点点滴滴
+        //third commit
         int row = matrix.length;
         int col = matrix[0].length;
         if(row == 0) return 0;
