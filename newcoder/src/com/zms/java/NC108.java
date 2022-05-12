@@ -12,6 +12,7 @@ public class NC108 {
         // write code here
         //的点点滴滴
         //third commit
+        //hot-fix修改
         int row = matrix.length;
         int col = matrix[0].length;
         if(row == 0) return 0;
