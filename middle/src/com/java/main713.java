@@ -6,6 +6,6 @@ package com.java;
  */
 public class main713 {
     public int numSubarrayProductLessThanK(int[] nums, int k) {
-
+    return 0;
     }
 }
